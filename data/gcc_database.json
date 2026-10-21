@@ -1,0 +1,385 @@
+{
+  "registrations": [
+    {
+      "personal": {
+        "fullName": "Karim Ullah",
+        "fullNameBn": "করিম উল্লাহ",
+        "dob": "1999-04-12",
+        "age": 27,
+        "gender": "male",
+        "fatherName": "Habib Ullah",
+        "motherName": "Fatema Begum",
+        "currentAddress": "Mirpur-10, Dhaka",
+        "permanentAddress": "Mirpur-10, Dhaka",
+        "sameAddress": true,
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "mobile": "01888990011",
+        "whatsapp": "01888990011",
+        "sameWhatsapp": true,
+        "email": "karim@example.com",
+        "preferredLanguage": "bn"
+      },
+      "education": {
+        "highestEducation": "HSC / Alim / Vocational HSC",
+        "institution": "Dhaka City College",
+        "passingYear": "2019",
+        "practicalExperienceYears": 2,
+        "skills": [
+          "Driving",
+          "Basic Logistics"
+        ]
+      },
+      "language": {
+        "banglaProficiency": "fluent",
+        "englishListening": "basic",
+        "englishAccents": "beginner",
+        "englishSpeaking": "basic",
+        "englishReading": "basic",
+        "englishWriting": "beginner",
+        "otherLanguages": []
+      },
+      "digital": {
+        "computerLiteracy": "basic",
+        "smartphoneSkills": "intermediate",
+        "internetUse": "intermediate",
+        "emailUse": "basic",
+        "officeApps": "basic",
+        "tradeSoftware": "",
+        "aiToolsAwareness": "no",
+        "designTools": {
+          "photoshop": false,
+          "illustrator": false,
+          "canva": false
+        }
+      },
+      "health": {
+        "hasAccommodationNeed": "no",
+        "physicalLimitation": "no",
+        "sensoryLimitation": "no",
+        "speechSupport": "no",
+        "sensitiveConsent": true
+      },
+      "careerPaths": {
+        "selectedPaths": [
+          "bangladesh"
+        ],
+        "bangladesh": {
+          "preferredJobTitles": "Delivery & Logistics Driver",
+          "targetIndustries": [
+            "Logistics & Courier"
+          ],
+          "workLocation": "Dhaka",
+          "jobType": "full_time",
+          "experienceYears": 2,
+          "expectedSalary": "25,000 BDT",
+          "availability": "Immediate",
+          "shiftPreference": "day"
+        }
+      },
+      "consent": {
+        "dataProcessingConsent": true,
+        "marketingConsent": true,
+        "truthfulnessDeclaration": true
+      },
+      "assessment": {
+        "overallScore": 68,
+        "dimensionScores": {
+          "educationTraining": 60,
+          "practicalSkills": 65,
+          "language": 55,
+          "digitalSkills": 50,
+          "careerClarity": 75
+        },
+        "strengths": [
+          "Clear local logistics career focus"
+        ],
+        "strengthsBn": [
+          "স্থানীয় লজিস্টিকস কর্মসংস্থানে সুনির্দিষ্ট লক্ষ্য"
+        ],
+        "growthAreas": [
+          "Spoken English & digital GPS routing could be improved"
+        ],
+        "growthAreasBn": [
+          "কাজের ইংরেজি ও ডিজিটাল নেভিগেশন দক্ষতা বৃদ্ধি প্রয়োজন"
+        ],
+        "recommendedSteps": [
+          "Schedule GCC driver readiness session"
+        ],
+        "recommendedStepsBn": [
+          "জিসিসি পেশাদার ড্রাইভার সেশনে অংশগ্রহণ করুন"
+        ],
+        "disclaimer": "Preliminary self-assessment.",
+        "disclaimerBn": "প্রাথমিক স্ব-মূল্যায়ন।"
+      },
+      "id": "GCC-2026-J8Q9R25A",
+      "status": "new",
+      "payment": {
+        "amount": 500,
+        "currency": "BDT",
+        "status": "paid",
+        "transactionId": "BK-MVHSH6EB-7095DE",
+        "paidAt": "2026-10-21T07:26:58.211Z"
+      },
+      "counsellorNotes": [],
+      "contactHistory": [],
+      "createdAt": "2026-10-21T07:25:40.266Z",
+      "updatedAt": "2026-10-21T07:26:58.211Z"
+    },
+    {
+      "id": "GCC-2026-K9M2P8Q1",
+      "personal": {
+        "fullName": "Md. Shafiqul Islam",
+        "fullNameBn": "মোঃ শফিকুল ইসলাম",
+        "dob": "1998-05-14",
+        "age": 28,
+        "gender": "male",
+        "fatherName": "Md. Abdul Mannan",
+        "motherName": "Laila Begum",
+        "currentAddress": "House 42, Road 7, Sector 3, Uttara, Dhaka",
+        "permanentAddress": "Village: Ramchandrapur, P.O: Bancharampur, Brahmanbaria",
+        "sameAddress": false,
+        "district": "Brahmanbaria",
+        "division": "Chittagong",
+        "mobile": "01711223344",
+        "whatsapp": "01711223344",
+        "sameWhatsapp": true,
+        "email": "shafiqul.it@example.com",
+        "preferredLanguage": "bn",
+        "emergencyContactName": "Md. Faruk (Brother)",
+        "emergencyContactPhone": "01819556677"
+      },
+      "education": {
+        "highestEducation": "Diploma in Engineering / Technical Diploma",
+        "institution": "Brahmanbaria Polytechnic Institute",
+        "passingYear": "2020",
+        "technicalInstitute": "Bangladesh-Korea Technical Training Centre (BKTTC)",
+        "tradeOccupation": "Welding and Fabrication",
+        "courseType": "diploma",
+        "duration": "4 Years",
+        "certificationStatus": "certified",
+        "practicalExperienceYears": 4,
+        "workHistory": "4 years experience as TIG/MIG welder in heavy ship fabrication yard in Chittagong.",
+        "skills": [
+          "TIG Welding",
+          "MIG Welding",
+          "Blueprint Reading",
+          "Workplace Safety"
+        ],
+        "expectedSalary": "SAR 3,200"
+      },
+      "language": {
+        "banglaProficiency": "fluent",
+        "englishListening": "intermediate",
+        "englishAccents": "basic",
+        "englishSpeaking": "basic",
+        "englishReading": "intermediate",
+        "englishWriting": "basic",
+        "otherLanguages": [
+          "Arabic (Basic greetings)"
+        ]
+      },
+      "digital": {
+        "computerLiteracy": "intermediate",
+        "smartphoneSkills": "advanced",
+        "internetUse": "advanced",
+        "emailUse": "intermediate",
+        "officeApps": "basic",
+        "tradeSoftware": "AutoCAD Basics",
+        "aiToolsAwareness": "yes",
+        "designTools": {
+          "photoshop": false,
+          "illustrator": false,
+          "canva": true
+        }
+      },
+      "health": {
+        "hasAccommodationNeed": "no",
+        "physicalLimitation": "no",
+        "sensoryLimitation": "no",
+        "speechSupport": "no",
+        "sensitiveConsent": true
+      },
+      "careerPaths": {
+        "selectedPaths": [
+          "overseas"
+        ],
+        "overseas": {
+          "hasPassport": "yes",
+          "passportExpiryDate": "2031-08-20",
+          "passportValidityMonths": 58,
+          "previousTravelCountries": [
+            "None"
+          ],
+          "targetCountries": [
+            "Saudi Arabia",
+            "UAE",
+            "Qatar"
+          ],
+          "targetTrade": "Heavy Welder / Pipe Fabricator",
+          "targetDeparture": "1_3_months",
+          "budgetRange": "BDT 2,50,000 - 3,50,000",
+          "financialReadiness": "own_savings",
+          "informationSource": "training_institute",
+          "relativesInDestination": true,
+          "destinationKnowledge": {
+            "jobMarket": true,
+            "livingCosts": true,
+            "localLanguage": false,
+            "workplaceCulture": true,
+            "legalRules": true
+          },
+          "understandsPermitRequired": true,
+          "understandsAgencyVerificationNeeded": true,
+          "understandsNoIllegalMigrationCommitment": true
+        }
+      },
+      "consent": {
+        "dataProcessingConsent": true,
+        "marketingConsent": true,
+        "truthfulnessDeclaration": true
+      },
+      "assessment": {
+        "overallScore": 84,
+        "dimensionScores": {
+          "educationTraining": 90,
+          "practicalSkills": 88,
+          "language": 68,
+          "digitalSkills": 72,
+          "careerClarity": 92,
+          "financialPlanning": 85,
+          "destinationAwareness": 82
+        },
+        "strengths": [
+          "Certified 4-year technical diploma from approved polytechnic",
+          "Strong practical fabrication experience (4+ years)",
+          "Valid passport with >50 months remaining validity",
+          "Demonstrates clear understanding of legal migration and BMET requirements"
+        ],
+        "strengthsBn": [
+          "অনুমোদিত পলিটেকনিক থেকে ৪ বছরের কারিগরি ডিপ্লোমা সনদপ্রাপ্ত",
+          "বাস্তব কারিগরি কাজের সমৃদ্ধ ৪ বছরের অভিজ্ঞতা",
+          "৫০ মাসেরও বেশি মেয়াদের সক্রিয় বৈধ পাসপোর্ট",
+          "বৈধ অভিবাসন ও বিএমইটি প্রক্রিয়ার সঠিক ধারণা"
+        ],
+        "growthAreas": [
+          "English speaking fluency and Middle Eastern accent comprehension could be improved",
+          "Needs Arabic workplace terminology orientation"
+        ],
+        "growthAreasBn": [
+          "ইংরেজি বলা এবং মধ্যপ্রাচ্যের ইংরেজি উচ্চারণ বোঝার দক্ষতা বাড়ানো প্রয়োজন",
+          "কাজের উপযোগী মৌলিক আরবি শব্দভাণ্ডার চর্চা প্রয়োজন"
+        ],
+        "recommendedSteps": [
+          "Attend GCC 2-week conversational English & Gulf trade terminology workshop",
+          "Verify target agency credentials on BMET portal before fee transfer",
+          "Undergo GAMCA medical fitness check prior to visa filing"
+        ],
+        "recommendedStepsBn": [
+          "জিসিসির ২ সপ্তাহের স্পোকেন ইংলিশ ও গালফ ট্রেড কর্মশালায় অংশ নিন",
+          "অর্থ লেনদেনের পূর্বে বিএমইটি পোর্টালে রিক্রুটিং এজেন্সির লাইসেন্স যাচাই করুন",
+          "ভিসা আবেদনের পূর্বে অনুমোদিত গামকা মেডিকেল টেস্ট সম্পন্ন করুন"
+        ],
+        "disclaimer": "Preliminary self-assessment — not a formal qualification, medical assessment, visa decision, job guarantee, or professional certification.",
+        "disclaimerBn": "এটি একটি প্রাথমিক স্ব-মূল্যায়ন — কোনো প্রাতিষ্ঠানিক সনদ, স্বাস্থ্যগত সিদ্ধান্ত, ভিসা অনুমোদন, চাকরির নিশ্চয়তা বা পেশাদার সার্টিফিকেট নয়।"
+      },
+      "payment": {
+        "amount": 500,
+        "currency": "BDT",
+        "status": "paid",
+        "provider": "bkash",
+        "transactionId": "BK92X7M401",
+        "paidAt": "2026-10-20T10:15:00Z"
+      },
+      "status": "interview_scheduled",
+      "assignedCounsellor": "Senior Counsellor - Overseas Division",
+      "nextFollowUpDate": "2026-10-25",
+      "counsellorNotes": [
+        {
+          "id": "note_1",
+          "author": "Admin",
+          "text": "Verified polytechnic certificate. Candidate has high technical readiness. Recommended for Gulf engineering contractors.",
+          "createdAt": "2026-10-20T11:00:00Z"
+        }
+      ],
+      "contactHistory": [
+        {
+          "id": "contact_1",
+          "date": "2026-10-20",
+          "type": "phone",
+          "counsellor": "Senior Counsellor",
+          "summary": "Introductory phone call completed. Applicant confirmed readiness and schedule for counselling."
+        }
+      ],
+      "createdAt": "2026-10-20T09:30:00Z",
+      "updatedAt": "2026-10-20T11:00:00Z"
+    }
+  ],
+  "drafts": [],
+  "auditLogs": [
+    {
+      "id": "audit_1792567618211_hmeez",
+      "timestamp": "2026-10-21T07:26:58.211Z",
+      "registrationId": "GCC-2026-J8Q9R25A",
+      "action": "REGISTRATION_UPDATED",
+      "actor": "PAYMENT_WEBHOOK",
+      "details": {
+        "paymentStatus": "paid",
+        "paymentTxId": "BK-MVHSH6EB-7095DE"
+      }
+    },
+    {
+      "id": "audit_1792567540267_1ptw0",
+      "timestamp": "2026-10-21T07:25:40.267Z",
+      "registrationId": "GCC-2026-J8Q9R25A",
+      "action": "REGISTRATION_CREATED",
+      "actor": "APPLICANT",
+      "details": {
+        "applicant": "Karim Ullah",
+        "paths": [
+          "bangladesh"
+        ],
+        "score": 68
+      }
+    },
+    {
+      "id": "audit_1792567511450_2s7b0",
+      "timestamp": "2026-10-21T07:25:11.450Z",
+      "action": "ADMIN_LOGIN_SUCCESS",
+      "actor": "admin@gcc.org",
+      "details": {
+        "role": "super_admin"
+      }
+    },
+    {
+      "id": "log_init",
+      "action": "DATABASE_INITIALIZED",
+      "actor": "SYSTEM",
+      "timestamp": "2026-10-21T07:24:36.046Z",
+      "details": {
+        "note": "GCC Database initialized with secure schemas and sample records."
+      }
+    }
+  ],
+  "settings": {
+    "counsellingFeeBDT": 500,
+    "counsellingFeeUSD": 10,
+    "brandLogoUrl": "",
+    "notificationEmail": "gccounceling@gmail.com",
+    "contactHotline": "+8801722051183, +8801703797957",
+    "contactWhatsapp": "+8801722051183",
+    "paymentMode": "test_sandbox",
+    "allowDraftSave": true,
+    "allowCvUpload": true
+  },
+  "adminUsers": [
+    {
+      "id": "usr_admin_1",
+      "username": "admin@gcc.org",
+      "name": "GCC Chief Counsellor",
+      "role": "super_admin",
+      "passwordHash": "e5ab13399edf3ede7438ebc723a073fed68d112fc89759e57996664f51734441",
+      "salt": "gcc_secure_salt_2026"
+    }
+  ]
+}

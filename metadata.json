@@ -1,0 +1,8 @@
+{
+  "name": "GCC - Global Career Counselling",
+  "description": "Bilingual (Bangla & English) career counselling, skill readiness assessment, overseas and local employment, entrepreneurship wizard, and admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
